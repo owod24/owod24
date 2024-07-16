@@ -3,13 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student and Aspiring Software Engineer
 --------------------------------------
-[![Website](https://custom-icon-badges.demolab.com/badge/Mozky.dev-darkgreen?style=for-the-badge&link=www.mozky.dev)](https://www.mozky.dev/) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
 
 
 I'm a passionate software engineer, deeply engaged with the technological realms of cloud computing, full-stack development, and data-driven solutions. My career goal is to leverage cutting-edge technologies in these areas, with a keen interest in expanding my expertise into machine learning and big data analytics
 
 *   🌍  I'm based in Toronto, Ontario.
-*   🖥️  See my portfolio at [My Website](http://mozky.dev)
+*   🖥️  See my portfolio at [![Website](https://custom-icon-badges.demolab.com/badge/Mozky.dev-darkgreen?style=for-the-badge&link=www.mozky.dev)](https://www.mozky.dev/)
 *   ✉️  You can contact me at [oluwadamilolaowolabi@trentu.ca](mailto:oluwadamilolaowolabi@trentu.ca)
 *   🚀  I'm currently working on [EDI Text Analysis](http://github.com/owod24/JUST-Archive-Analysis)
 *   🧠  I'm learning React, Python.
