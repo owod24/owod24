@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student and Aspiring Software Engineer
 --------------------------------------
-[![Website](https://custom-icon-badges.demolab.com/?style=for-the-badge&logo=&logoColor=white&link=www.mozky.dev)](https://www.mozky.dev)
-
+[![Website](https://custom-icon-badges.demolab.com/badge/Mozky.dev-green?style=for-the-badge&link=www.mozky.dev)](https://www.mozky.dev)
+[![Website](https://img.shields.io/badge/foluwaderibigbe.com-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://foluwaderibigbe.com/)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
 
