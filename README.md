@@ -32,14 +32,11 @@ I'm a passionate software engineer, deeply engaged with the technological realms
   <img width=110px src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
   <img width=90px src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
 
-### Socials
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/owod24" align="center"><img src="https://github-readme-stats.vercel.app/api?username=owod24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&layout=compact&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owod24's GitHub stats" /></a>  <a href="https://github.com/owod24" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owod24&langs_count=10&title_color=0891b2&text_color=ffffff&layout=compact&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+|<a href="http://www.github.com/owod24" align="center"><img src="https://github-readme-stats.vercel.app/api?username=owod24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&layout=compact&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owod24's GitHub stats" />|</a>  <a href="https://github.com/owod24" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owod24&langs_count=10&title_color=0891b2&text_color=ffffff&layout=compact&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>|
 
 <a href="http://www.github.com/owod24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=owod24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
