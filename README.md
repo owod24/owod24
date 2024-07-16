@@ -3,9 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student and Aspiring Software Engineer
 --------------------------------------
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Website](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I'm a passionate software engineer, deeply engaged with the technological realms of cloud computing, full-stack development, and data-driven solutions. My career goal is to leverage cutting-edge technologies in these areas, with a keen interest in expanding my expertise into machine learning and big data analytics
 
