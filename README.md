@@ -3,11 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student and Aspiring Software Engineer
 --------------------------------------
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=www.linkedin.com/in/foluwaderibigbe)](https://www.linkedin.com/in/foluwaderibigbe)
 
 I'm a passionate software engineer, deeply engaged with the technological realms of cloud computing, full-stack development, and data-driven solutions. My career goal is to leverage cutting-edge technologies in these areas, with a keen interest in expanding my expertise into machine learning and big data analytics
 
@@ -19,9 +17,23 @@ I'm a passionate software engineer, deeply engaged with the technological realms
 *   🤝  I'm open to collaborating on Full-stack web applications and Data analytics projects.
 *   ⚡  My favourite ways to relax are to read, write essays or play video games. I also love running and weight lifting.
 
-### Skills 
+## Languages and Frameworks 
 --------------------------------------
 
+<img width=175px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
+  <img width=100px src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;
+  <img width=60px src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white">&nbsp;
+  <img width=100px src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img width=80px src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img width=75px src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img width=130px src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">&nbsp;
+  <img width=110px src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+  <img width=90px src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
 
 ### Socials
 
