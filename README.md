@@ -18,7 +18,6 @@ I'm a passionate software engineer, deeply engaged with the technological realms
 *   ⚡  My favourite ways to relax are to read, write essays or play video games. I also love running and weight lifting.
 
 ## Languages and Frameworks 
---------------------------------------
 
 <img width=175px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
   <img width=100px src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;
