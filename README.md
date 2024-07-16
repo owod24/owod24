@@ -3,13 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student and Aspiring Software Engineer
 --------------------------------------
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
+[![Website](https://custom-icon-badges.demolab.com/badge/Mozky.dev-darkgreen?style=for-the-badge&link=www.mozky.dev)](https://www.mozky.dev/)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/damilola-owolabi-bb0a851ab)](https://www.linkedin.com/in/damilola-owolabi-bb0a851ab)
 
 
-I'm a passionate software engineer, deeply engaged with the technological realms of cloud computing, full-stack development, and data-driven solutions. My career goal is to leverage cutting-edge technologies in these areas, with a keen interest in expanding my expertise into machine learning and big data analytics
+I'm a passionate software engineer, deeply engaged with the technological realms of cloud computing, full-stack development, and data-driven solutions. My career goal is to leverage cutting-edge technologies in these areas, with a keen interest in expanding my expertise into machine learning and big data analytics. 
 
 *   🌍  I'm based in Toronto, Ontario.
-*   🖥️  See my portfolio at [![Website](https://custom-icon-badges.demolab.com/badge/Mozky.dev-darkgreen?style=for-the-badge&link=www.mozky.dev)](https://www.mozky.dev/)
+*   🖥️  See my portfolio at [My Website](https://www.mozky.dev/)
 *   ✉️  You can contact me at [oluwadamilolaowolabi@trentu.ca](mailto:oluwadamilolaowolabi@trentu.ca)
 *   🚀  I'm currently working on [EDI Text Analysis](http://github.com/owod24/JUST-Archive-Analysis)
 *   🧠  I'm learning React, Python.
@@ -19,7 +21,6 @@ I'm a passionate software engineer, deeply engaged with the technological realms
 ## Languages and Frameworks 
   <img width=175px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
   <img width=100px src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">&nbsp;
-  <img width=100px src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
   <img width=90px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
   <img width=80px src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
   <img width=90px src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
